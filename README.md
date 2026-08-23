@@ -145,7 +145,7 @@ Presented a case study on **Green Supply Chain and Multimodal Logistics** at the
 
 # 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge\&logo=adobeacrobatreader)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge\&logo=adobeacrobatreader)](Dhruv_Thakar_Resume.docx)
 
 ---
 
@@ -156,7 +156,7 @@ Presented a case study on **Green Supply Chain and Multimodal Logistics** at the
 * 📱 **Phone:** +91 8780796033
 * 💻 **GitHub:** https://github.com/dhruv-thakar-2704/
 * 🌐 **Portfolio:** http://stately-entremet-122f50.netlify.app
-* 📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
+* 📄 **Resume:** [View Resume](Dhruv_Thakar_Resume.docx)
 
 ---
 
