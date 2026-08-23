@@ -108,12 +108,12 @@ Worked on synthesis and characterization of a **magnetized nanocatalyst for sust
 
 Research focused on **AI adoption, employee behaviour, and operational transformation** across logistics and corporate environments.
 
-### 🌍 ICSUMMIT 2026 — Parul University
+### 🌍 ICSUMMIT 2026 - Parul University
 
 **"Synthesis and Characterization of a Magnetized Nano Catalyst Derived from Pomegranate Seed Biomass"**
 
-🏆 **2nd Rank — Best Paper Presentation**
-🏅 **Nanoscale Advances Prize Award — Royal Society of Chemistry**
+🏆 **2nd Rank - Best Paper Presentation**
+🏅 **Nanoscale Advances Prize Award - Royal Society of Chemistry**
 
 ### 🇮🇳 IIPA National Conference 2025
 
@@ -123,9 +123,9 @@ Presented a case study on **Green Supply Chain and Multimodal Logistics** at the
 
 # 🏆 Achievements & Certifications
 
-* 🥇 **Nanoscale Advances Prize Award** — Royal Society of Chemistry
-* 🏆 **2nd Rank — Best Paper Presentation**, ICSUMMIT 2026
-* 🎓 **NPTEL Elite Certification — Air Pollution and Control**, IIT Roorkee
+* 🥇 **Nanoscale Advances Prize Award** - Royal Society of Chemistry
+* 🏆 **2nd Rank - Best Paper Presentation**, ICSUMMIT 2026
+* 🎓 **NPTEL Elite Certification - Air Pollution and Control**, IIT Roorkee
 * 📊 **Digital Supply Chain, Blockchain & Cybersecurity**
 * 👨‍💼 **Basics of Training & Leadership**
 * 📗 **MS Excel & Excel Automation using ChatGPT**
